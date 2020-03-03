@@ -19,7 +19,7 @@
 
 9.) O(1) constant.  This only does a single calculation that fetches a random element.  There is no real different how large the array input, it still does the same single calculation.
 
-10.) This checks to see if a number is prime.  O (?)  This is an interesting one.  I'm assuming the desired answer is linear or logn, but really... That's a question for a mathmatician.  The prime number gap grows as you input larger numbers...but then at a certain point the gap stops increasing.  There are also theorems that talk about maximum distances between "prime pairs", etc.  So honestly I'd need to a lot about prime numbers to answer accurately. 
+10.) This checks to see if a number is prime.  O (?)  This is an interesting one.  I'm assuming the desired answer is linear or logn, but really... That's a question for a mathmatician.  The prime number gap grows as you input larger numbers...but then at a certain point the gap stops increasing.  There are also theorems that talk about maximum distances between "prime pairs", etc.  So honestly I'd need to know a lot about prime numbers to answer accurately. 
 
 
 
