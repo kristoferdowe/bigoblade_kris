@@ -21,6 +21,28 @@
 
 10.) This checks to see if a number is prime.  O (?)  This is an interesting one.  I'm assuming the desired answer is linear or logn, but really... That's a question for a mathmatician.  The prime number gap grows as you input larger numbers...but then at a certain point the gap stops increasing.  There are also theorems that talk about maximum distances between "prime pairs", etc.  So honestly I'd need to know a lot about prime numbers to answer accurately. 
 
+11.) Algorithm and function in bigOTOH.js 
+a.) Src still has the two biggest plates.  Other three are stacked in order on dest.
+b.) 7, 15, 31 (2*previous + 1)
+c.) O(2n+1)?
+
+12.)  These can be found in bigOExercises.js
+
+13.)  Only finished the first 7 so I'm going to go by them:
+
+    1.) Linear - One tick for each item
+    2.) Linear (by exponent) - one cycle for each exponent increase
+    3.) Linear - one slice for each additional character
+    4.) Linear - one cycle for each additonal number higher
+    5.) Too many factors for a simple answer.  Linear for the length of the string
+    6.) Going to go with polynomial or exponential.  Not sure which one...each additional number means having as many calculations as the previous two numbers combined.  OH, I know, O(fibbonaci) :-)
+
+    7.)  Linear - additional cycle for each increase in number
+
+14.)  These can be found in the code comments for bigOExercises.js
+
+
+
 
 
 

@@ -17,4 +17,6 @@ function TOH(n, source, dest, temp) {
   }
 }
 
-TOH(2, "A", "C", "B")
+TOH(5, "A", "C", "B")
+
+
