@@ -15,6 +15,12 @@
 7.) Creates fibonacci sequence for the input number (where the array index is the "traditional" sequence index)
     O(n) linear, because for each increment of the input, we have to do one more tick in the loop
 
+8.) O (logn) logarithmic.  This is a binary/halving style search.  The number of items searched is halved every time, so the resulting computations needed scale logarithmically with input size.
+
+9.) O(1) constant.  This only does a single calculation that fetches a random element.  There is no real different how large the array input, it still does the same single calculation.
+
+10.) This checks to see if a number is prime.  O (?)  This is an interesting one.  I'm assuming the desired answer is linear or logn, but really... That's a question for a mathmatician.  The prime number gap grows as you input larger numbers...but then at a certain point the gap stops increasing.  There are also theorems that talk about maximum distances between "prime pairs", etc.  So honestly I'd need to a lot about prime numbers to answer accurately. 
+
 
 
 
