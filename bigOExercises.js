@@ -48,7 +48,7 @@ const triNumber = (number) => {
 
 triNumber(9)
 
-//String Splitter - note: only for single character seperator.
+//String Splitter - note: only for single character separator.
 //At least linear because of each string character taking
 //an additional tick.  Multiple character separators make this
 //a much more complex question.
